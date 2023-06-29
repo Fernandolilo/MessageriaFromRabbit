@@ -433,3 +433,14 @@
 2023-06-29 13:59:52,582 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2023-06-29 13:59:52,591 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2023-06-29 13:59:52,595 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/product/src/test/resources
+2023-06-29 14:02:27,565 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-06-29 14:02:27,575 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-06-29 14:02:27,581 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/product/src/test/resources
+2023-06-29 14:03:33,423 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.7+7
+2023-06-29 14:03:33,443 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-06-29 14:03:33,471 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@bfbed82{/help,null,AVAILABLE}
+2023-06-29 14:03:33,486 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@302489eb{HTTP/1.1, (http/1.1)}{127.0.0.1:41393}
+2023-06-29 14:03:33,488 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@6c6e8927{STARTING}[10.0.13,sto=0] @525013ms
+2023-06-29 14:06:50,096 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-06-29 14:06:50,108 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-06-29 14:06:50,112 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/product/src/test/resources
