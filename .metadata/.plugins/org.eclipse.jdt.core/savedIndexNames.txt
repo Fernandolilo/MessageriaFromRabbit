@@ -1,5 +1,4 @@
 INDEX VERSION 1.132+/home/fernando/temp-sts/microsservicesInRabbitMQ/.metadata/.plugins/org.eclipse.jdt.core
-189953088.index
 1780361986.index
 89260028.index
 699153290.index

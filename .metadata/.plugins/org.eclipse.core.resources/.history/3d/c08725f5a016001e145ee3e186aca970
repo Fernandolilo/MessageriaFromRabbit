@@ -1,0 +1,10 @@
+server: 
+  port: 8000
+  servlet:
+    context-path: /products
+spring:
+  application:
+    name: products
+  profiles:
+    active:
+    - test
