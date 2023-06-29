@@ -1,0 +1,5 @@
+package com.systempro.product.domain.data;
+
+public class CategoryVO {
+
+}

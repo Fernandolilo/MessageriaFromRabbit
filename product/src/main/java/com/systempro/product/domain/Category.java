@@ -5,6 +5,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+import org.modelmapper.ModelMapper;
+
+import com.systempro.product.domain.data.CategoryVO;
+
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
@@ -27,6 +31,11 @@ public class Category implements Serializable {
 	public Category() {
 
 	}
+	
+	public static Category create(CategoryVO category) {
+		return new ModelMapper().map(category, Category.class);
+	}
+
 
 	public Category(Long id, String category) {
 		this.id = id;
@@ -36,9 +45,19 @@ public class Category implements Serializable {
 	public Long getId() {
 		return id;
 	}
+	
+	
+
+	public void setId(Long id) {
+		this.id = id;
+	}
 
 	public String getCategory() {
 		return category;
+	}
+
+	public void setCategory(String category) {
+		this.category = category;
 	}
 
 	public List<Product> getProducts() {
