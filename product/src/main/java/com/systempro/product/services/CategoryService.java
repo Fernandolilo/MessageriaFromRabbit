@@ -2,6 +2,7 @@ package com.systempro.product.services;
 
 import java.util.Optional;
 
+import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
@@ -9,6 +10,7 @@ import org.springframework.stereotype.Service;
 import com.systempro.product.domain.Category;
 import com.systempro.product.domain.data.CategoryVO;
 import com.systempro.product.repositories.CategoryRepository;
+import com.systempro.product.services.exceptions.DataIntegrityViolation;
 import com.systempro.product.services.exceptions.ObjectNotFoundException;
 
 @Service
@@ -39,13 +41,32 @@ public class CategoryService {
 		if (categoryVO.getId() == null) {
 			CategoryVO tanque = CategoryVO.create(repository.save(Category.create(categoryVO)));
 			return tanque;
-		}if(categoryVO.getId() != null) {
+		}
+		if (categoryVO.getId() != null) {
 			final Optional<Category> ca = repository.findById(categoryVO.getId());
-			if(!ca.isPresent()) {
+			if (!ca.isPresent()) {
 				throw new ObjectNotFoundException("Identificador não existe: Category invalido!");
-			}return CategoryVO.create(repository.save(Category.create(categoryVO)));
+			}
+			return CategoryVO.create(repository.save(Category.create(categoryVO)));
 		}
 		return null;
 	}
 
+	public void delete(Long id) {
+		findById(id);
+		try {
+			repository.deleteById(id);
+		} catch (DataIntegrityViolationException e) {
+			throw new DataIntegrityViolation("Não é possivel excluir uma categoria que possua produtos.");
+		}
+	}
+
+	public CategoryVO update(CategoryVO categoryVO) {
+		final Optional<Category> optionalCategory = repository.findById(categoryVO.getId());
+
+		if (!optionalCategory.isPresent()) {
+			throw new ObjectNotFoundException("Passe um identificador válido: ");
+		}
+		return CategoryVO.create(repository.save(Category.create(categoryVO)));
+	}
 }

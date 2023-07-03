@@ -13,9 +13,11 @@ import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.PagedModel;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -52,17 +54,30 @@ public class CategoryController {
 	@GetMapping(value = "/{id}", produces = { "application/json", "application/xml", "application/yaml" })
 	public CategoryVO findById(@PathVariable("id") Long id) {
 		CategoryVO category = service.findById(id);
-
 		category.add(linkTo(methodOn(CategoryController.class).findById(id)).withSelfRel());
 		return category;
 	}
 	
-	@PostMapping(produces = { "application/json", "application/xml", "application/yaml" }, consumes = {
-			"application/json", "application/xml", "application/yaml" })
-	public CategoryVO create (@RequestBody CategoryVO categoryVO) {
-		CategoryVO category = service.create(categoryVO);
+	@PostMapping(produces = {"application/json", "application/xml", "application/yaml"},
+			consumes = {"application/json", "application/xml", "application/yaml"})
+	public CategoryVO create(@RequestBody CategoryVO CategoryVO) {
+		CategoryVO category = service.create(CategoryVO);
 		category.add(linkTo(methodOn(CategoryController.class).findById(category.getId())).withSelfRel());
 		return category;
 	}
+	
+	@DeleteMapping(value = "delete/{id}")
+	public ResponseEntity<Void> delete(@PathVariable Long id) {
+		service.delete(id);
+		return ResponseEntity.noContent().build();
+	}
+	
 
+	@PutMapping(produces = {"application/json", "application/xml", "application/yaml"},
+			consumes = {"application/json", "application/xml", "application/yaml"})
+	public CategoryVO update(@RequestBody CategoryVO categoryVO) {
+		CategoryVO cat = service.update(categoryVO);
+		cat.add(linkTo(methodOn(CategoryController.class).findById(cat.getId())).withSelfRel());
+		return cat;
+	}
 }
