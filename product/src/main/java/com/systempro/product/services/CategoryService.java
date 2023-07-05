@@ -2,24 +2,25 @@ package com.systempro.product.services;
 
 import java.util.Optional;
 
-import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import com.systempro.product.domain.Category;
 import com.systempro.product.domain.data.CategoryVO;
+import com.systempro.product.message.ProductSendMessage;
 import com.systempro.product.repositories.CategoryRepository;
-import com.systempro.product.services.exceptions.DataIntegrityViolation;
 import com.systempro.product.services.exceptions.ObjectNotFoundException;
 
 @Service
 public class CategoryService {
 
 	private final CategoryRepository repository;
+	private final ProductSendMessage productSendMessage;
 
-	public CategoryService(CategoryRepository repository) {
+	public CategoryService(CategoryRepository repository, ProductSendMessage productSendMessage) {
 		this.repository = repository;
+		this.productSendMessage = productSendMessage;
 	}
 
 	public Page<CategoryVO> findAllPage(Pageable pageable) {
@@ -39,26 +40,23 @@ public class CategoryService {
 
 	public CategoryVO create(CategoryVO categoryVO) {
 		if (categoryVO.getId() == null) {
-			CategoryVO tanque = CategoryVO.create(repository.save(Category.create(categoryVO)));
-			return tanque;
-		}
-		if (categoryVO.getId() != null) {
-			final Optional<Category> ca = repository.findById(categoryVO.getId());
-			if (!ca.isPresent()) {
-				throw new ObjectNotFoundException("Identificador não existe: Category invalido!");
-			}
-			return CategoryVO.create(repository.save(Category.create(categoryVO)));
+			CategoryVO categoria = CategoryVO.create(repository.save(Category.create(categoryVO)));
+			productSendMessage.sendMessage(categoryVO);
+			return categoria;
 		}
 		return null;
 	}
 
-	public void delete(Long id) {
-		findById(id);
-		try {
-			repository.deleteById(id);
-		} catch (DataIntegrityViolationException e) {
-			throw new DataIntegrityViolation("Não é possivel excluir uma categoria que possua produtos.");
+	public void delete(CategoryVO categoryVO) {
+
+		final Optional<Category> optionalCategory = repository.findById(categoryVO.getId());
+
+		if (!optionalCategory.isPresent()) {
+			throw new ObjectNotFoundException("Passe um identificador válido: ");
 		}
+
+		repository.deleteById(categoryVO.getId());
+		productSendMessage.sendMessage(categoryVO);
 	}
 
 	public CategoryVO update(CategoryVO categoryVO) {
@@ -67,6 +65,7 @@ public class CategoryService {
 		if (!optionalCategory.isPresent()) {
 			throw new ObjectNotFoundException("Passe um identificador válido: ");
 		}
+		productSendMessage.sendMessage(categoryVO);
 		return CategoryVO.create(repository.save(Category.create(categoryVO)));
 	}
 }

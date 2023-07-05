@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.systempro.product.domain.Category;
 import com.systempro.product.domain.Product;
 
-@JsonPropertyOrder({ "id", "category", "products    	" })
+@JsonPropertyOrder({ "id", "category", "products" })
 public class CategoryVO extends RepresentationModel<CategoryVO> implements Serializable {
 	private static final long serialVersionUID = 1L;
 

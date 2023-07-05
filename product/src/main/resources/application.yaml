@@ -8,3 +8,16 @@ spring:
   profiles:
     active:
     - test
+
+    
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: nando.systempro@hotmail.com
+    password: Fe2812
+        
+product:
+  rabbitmq:
+    exchange: product.exchange
+    routingkey: product.routingkey
+    

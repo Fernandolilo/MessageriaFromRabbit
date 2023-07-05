@@ -66,9 +66,9 @@ public class CategoryController {
 		return category;
 	}
 	
-	@DeleteMapping(value = "delete/{id}")
-	public ResponseEntity<Void> delete(@PathVariable Long id) {
-		service.delete(id);
+	@DeleteMapping()
+	public ResponseEntity<Void> delete(@RequestBody CategoryVO category) {
+		service.delete(category);
 		return ResponseEntity.noContent().build();
 	}
 	
@@ -76,6 +76,7 @@ public class CategoryController {
 	@PutMapping(produces = {"application/json", "application/xml", "application/yaml"},
 			consumes = {"application/json", "application/xml", "application/yaml"})
 	public CategoryVO update(@RequestBody CategoryVO categoryVO) {
+		
 		CategoryVO cat = service.update(categoryVO);
 		cat.add(linkTo(methodOn(CategoryController.class).findById(cat.getId())).withSelfRel());
 		return cat;
