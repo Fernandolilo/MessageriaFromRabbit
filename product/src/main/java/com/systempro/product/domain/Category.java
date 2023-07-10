@@ -7,8 +7,6 @@ import java.util.Objects;
 
 import org.modelmapper.ModelMapper;
 
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.systempro.product.domain.data.CategoryVO;
 
 import jakarta.persistence.CascadeType;
@@ -25,12 +23,10 @@ public class Category implements Serializable {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@JsonSerialize()
-	@JsonDeserialize()
 	private Long id;
 	private String category;
 
-	@OneToMany(mappedBy = "categoria", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
+	@OneToMany(mappedBy = "category", fetch = FetchType.EAGER, cascade = CascadeType.ALL, orphanRemoval = true)
 	private List<Product> products = new ArrayList<>();
 
 	public Category() {
@@ -39,11 +35,6 @@ public class Category implements Serializable {
 
 	public static Category create(CategoryVO category) {
 		return new ModelMapper().map(category, Category.class);
-	}
-
-	public Category(Long id, String category) {
-		this.id = id;
-		this.category = category;
 	}
 
 	public Long getId() {

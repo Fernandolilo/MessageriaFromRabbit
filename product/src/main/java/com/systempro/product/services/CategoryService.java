@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.systempro.product.domain.Category;
 import com.systempro.product.domain.data.CategoryVO;
-import com.systempro.product.message.ProductSendMessage;
+import com.systempro.product.message.EstoqueSendMessage;
 import com.systempro.product.repositories.CategoryRepository;
 import com.systempro.product.services.exceptions.ObjectNotFoundException;
 
@@ -16,9 +16,9 @@ import com.systempro.product.services.exceptions.ObjectNotFoundException;
 public class CategoryService {
 
 	private final CategoryRepository repository;
-	private final ProductSendMessage productSendMessage;
+	private final EstoqueSendMessage productSendMessage;
 
-	public CategoryService(CategoryRepository repository, ProductSendMessage productSendMessage) {
+	public CategoryService(CategoryRepository repository, EstoqueSendMessage productSendMessage) {
 		this.repository = repository;
 		this.productSendMessage = productSendMessage;
 	}
@@ -41,22 +41,20 @@ public class CategoryService {
 	public CategoryVO create(CategoryVO categoryVO) {
 		if (categoryVO.getId() == null) {
 			CategoryVO categoria = CategoryVO.create(repository.save(Category.create(categoryVO)));
-			productSendMessage.sendMessage(categoryVO);
+			productSendMessage.sendMessageCategory(categoryVO);
 			return categoria;
 		}
 		return null;
 	}
 
 	public void delete(CategoryVO categoryVO) {
-
 		final Optional<Category> optionalCategory = repository.findById(categoryVO.getId());
-
 		if (!optionalCategory.isPresent()) {
 			throw new ObjectNotFoundException("Passe um identificador válido: ");
 		}
 
 		repository.deleteById(categoryVO.getId());
-		productSendMessage.sendMessage(categoryVO);
+		productSendMessage.sendMessageCategory(categoryVO);
 	}
 
 	public CategoryVO update(CategoryVO categoryVO) {
@@ -65,7 +63,7 @@ public class CategoryService {
 		if (!optionalCategory.isPresent()) {
 			throw new ObjectNotFoundException("Passe um identificador válido: ");
 		}
-		productSendMessage.sendMessage(categoryVO);
+		productSendMessage.sendMessageCategory(categoryVO);
 		return CategoryVO.create(repository.save(Category.create(categoryVO)));
 	}
 }
