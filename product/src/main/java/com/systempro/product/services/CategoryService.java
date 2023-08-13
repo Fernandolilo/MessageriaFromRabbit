@@ -52,9 +52,8 @@ public class CategoryService {
 		if (!optionalCategory.isPresent()) {
 			throw new ObjectNotFoundException("Passe um identificador válido: ");
 		}
-
-		repository.deleteById(categoryVO.getId());
 		productSendMessage.sendMessageCategory(categoryVO);
+		repository.deleteById(categoryVO.getId());
 	}
 
 	public CategoryVO update(CategoryVO categoryVO) {

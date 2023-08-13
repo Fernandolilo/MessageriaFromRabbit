@@ -1,10 +1,10 @@
 server: 
   port: 8000
   servlet:
-    context-path: /products
+    context-path: /estoque
 spring:
   application:
-    name: products
+    name: estoque
   profiles:
     active:
     - test

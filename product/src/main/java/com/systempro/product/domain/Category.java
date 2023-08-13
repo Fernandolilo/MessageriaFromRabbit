@@ -7,6 +7,7 @@ import java.util.Objects;
 
 import org.modelmapper.ModelMapper;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.systempro.product.domain.data.CategoryVO;
 
 import jakarta.persistence.CascadeType;
@@ -26,7 +27,7 @@ public class Category implements Serializable {
 	private Long id;
 	private String category;
 
-	@OneToMany(mappedBy = "category", fetch = FetchType.EAGER, cascade = CascadeType.ALL, orphanRemoval = true)
+	@OneToMany(mappedBy = "category", fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
 	private List<Product> products = new ArrayList<>();
 
 	public Category() {
@@ -52,7 +53,7 @@ public class Category implements Serializable {
 	public void setCategory(String category) {
 		this.category = category;
 	}
-
+	
 	public List<Product> getProducts() {
 		return products;
 	}

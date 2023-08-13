@@ -3,6 +3,8 @@ package com.systempro.product.controller;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
 
+import java.util.List;
+
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
@@ -23,6 +25,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.systempro.product.domain.Product;
 import com.systempro.product.domain.data.ProductVO;
 import com.systempro.product.services.ProductService;
 
@@ -80,5 +83,12 @@ public class ProductController {
 		ProductVO cat = service.update(productVO);
 		cat.add(linkTo(methodOn(ProductController.class).findById(cat.getId())).withSelfRel());
 		return cat;
+	}
+	
+
+	@GetMapping(value = "/search", produces = { "application/json", "application/xml", "application/yaml" })
+	public List<Product> findByName(@RequestParam(name = "name", required = true) String name){
+		List<Product> list = service.findByName(name);
+		return list;
 	}
 }

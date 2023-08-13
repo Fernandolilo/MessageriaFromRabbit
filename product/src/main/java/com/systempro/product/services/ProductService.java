@@ -1,5 +1,6 @@
 package com.systempro.product.services;
 
+import java.util.List;
 import java.util.Optional;
 
 import org.springframework.data.domain.Page;
@@ -52,9 +53,10 @@ public class ProductService {
 		if (!optionalProduct.isPresent()) {
 			throw new ObjectNotFoundException("Passe um identificador válido: ");
 		}
-
+		
 		repository.deleteById(productVo.getId());
-		// productSendMessage.sendMessageProduct(productVo);
+		productSendMessage.sendMessageProd(productVo);
+		
 	}
 
 	public ProductVO update(ProductVO productVo) {
@@ -63,7 +65,13 @@ public class ProductService {
 		if (!optionalProduct.isPresent()) {
 			throw new ObjectNotFoundException("Passe um identificador válido: ");
 		}
-		// productSendMessage.sendMessageProduct(productVo);
+		productSendMessage.sendMessageProd(productVo);
 		return ProductVO.create(repository.save(Product.create(productVo)));
 	}
+
+	public List<Product> findByName(String name) {
+		List<Product> prod = repository.findByNameLike(name);
+		return prod;
+	}
+
 }

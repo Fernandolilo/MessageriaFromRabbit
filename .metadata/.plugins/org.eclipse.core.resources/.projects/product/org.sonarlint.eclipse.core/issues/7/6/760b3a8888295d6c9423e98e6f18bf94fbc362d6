@@ -1,4 +1,11 @@
 
-G
-java:S1700"Rename field "category"(‘Ñ¤’üÿÿÿÿHBRMAJORZ
+H
+java:S1700"Rename field "category"(‘Ñ¤’üÿÿÿÿHÃRMAJORZ
+CODE_SMELL
+¼
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ¨˜›øÿÿÿÿ8²¨Öé’1HÁRCRITICALZ
+CODE_SMELL
+{
+java:S1128
+"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(þ‘‹„8Á³Ç’”1HÐRMINORZ
 CODE_SMELL

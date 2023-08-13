@@ -5,6 +5,7 @@ import java.util.Objects;
 
 import org.modelmapper.ModelMapper;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.systempro.product.domain.data.ProductVO;
@@ -33,7 +34,8 @@ public class Product implements Serializable {
 	@JsonProperty("amount")
 	private Integer amount;
 	@JsonProperty("category")
-	@ManyToOne(fetch = FetchType.LAZY)
+	@JsonIgnore
+	@ManyToOne(fetch = FetchType.EAGER)
 	@JoinColumn(name = "category_id")
 	private Category category;
 

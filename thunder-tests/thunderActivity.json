@@ -1,0 +1,59 @@
+[
+    {
+        "_id": "c2009734-8abc-4802-9fbf-f96235dac3c2",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:9000/sales/pedidos",
+        "url": "http://localhost:9000/sales/pedidos",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-07-21T10:25:03.578Z",
+        "modified": "2023-07-27T23:08:15.549Z",
+        "headers": [],
+        "params": [],
+        "body": {
+            "type": "json",
+            "raw": "\n{  \n\"itens\": [{\n  \"product\": {\"id\": 1},\n  \"amount\": 30,\n  \"price\": 150\n }]\n}",
+            "form": []
+        },
+        "tests": []
+    },
+    {
+        "_id": "564a0ac7-26e3-4271-87b1-4e7d818bfe1e",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:8000/estoque/products",
+        "url": "http://localhost:8000/estoque/products",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-07-21T10:26:17.604Z",
+        "modified": "2023-07-21T10:26:17.604Z",
+        "headers": [],
+        "params": [],
+        "body": {
+            "type": "json",
+            "raw": "{\n\n    \"name\":\"colchao de cama\",\n\t\"price\": 150.00,\n    \"amount\": 50,\n    \"category\": {\"id\": 1}\n}",
+            "form": []
+        },
+        "tests": []
+    },
+    {
+        "_id": "7ed040ed-eb2d-49c7-91e1-b8968c5ac424",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:8000/estoque/categories",
+        "url": "http://localhost:8000/estoque/categories",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-07-21T10:28:16.035Z",
+        "modified": "2023-07-21T10:28:35.723Z",
+        "headers": [],
+        "params": [],
+        "body": {
+            "type": "json",
+            "raw": "{\n    \"category\": \"cama mesa e banho\"\n}",
+            "form": []
+        },
+        "tests": []
+    }
+]
