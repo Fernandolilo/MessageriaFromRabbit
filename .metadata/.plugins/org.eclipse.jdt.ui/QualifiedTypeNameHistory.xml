@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.systempro.product.domain.Category"/>
-    <fullyQualifiedTypeName name="com.systempro.sales.domain.Category"/>
-    <fullyQualifiedTypeName name="org.springframework.amqp.core.ExchangeBuilder"/>
-    <fullyQualifiedTypeName name="javax.naming.Binding"/>
-    <fullyQualifiedTypeName name="com.rabbitmq.client.AMQP.Exchange"/>
-    <fullyQualifiedTypeName name="ch.qos.logback.classic.pattern.MessageConverter"/>
-    <fullyQualifiedTypeName name="org.springframework.amqp.core.BindingBuilder"/>
-    <fullyQualifiedTypeName name="org.springframework.amqp.core.Queue"/>
-    <fullyQualifiedTypeName name="org.springframework.amqp.core.Binding"/>
-    <fullyQualifiedTypeName name="org.springframework.amqp.core.TopicExchange"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
-    <fullyQualifiedTypeName name="com.systempro.sales.message.MessageConfig"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
     <fullyQualifiedTypeName name="com.systempro.product.domain.data.ProductVO"/>
@@ -43,21 +32,32 @@
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="com.systempro.sales.domain.data.SalesDTO"/>
     <fullyQualifiedTypeName name="java.util.Collection"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
-    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonBackReference"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
     <fullyQualifiedTypeName name="com.systempro.sales.domain.data.ProductVO"/>
     <fullyQualifiedTypeName name="com.systempro.sales.domain.ItemSales"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="org.modelmapper.ModelMapper"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.systempro.sales.domain.data.SalesVO"/>
-    <fullyQualifiedTypeName name="com.systempro.sales.domain.Sales"/>
     <fullyQualifiedTypeName name="com.rabbitmq.client.MapRpcServer"/>
     <fullyQualifiedTypeName name="com.systempro.sales.domain.Product"/>
+    <fullyQualifiedTypeName name="com.systempro.sales.message.MessageConfig"/>
+    <fullyQualifiedTypeName name="com.systempro.sales.domain.Sales"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.function.ServerResponse.SseBuilder"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ElementCollection"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.CollectionTable"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.buf.UEncoder.SafeCharsSet"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="com.systempro.sales.enums.Status"/>
+    <fullyQualifiedTypeName name="java.net.http.HttpHeaders"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.neo4j.Neo4jProperties.Authentication"/>
+    <fullyQualifiedTypeName name="lombok.Value"/>
+    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
 </qualifiedTypeNameHistroy>

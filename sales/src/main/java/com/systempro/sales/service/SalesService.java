@@ -10,6 +10,7 @@ import com.systempro.sales.domain.ItemSales;
 import com.systempro.sales.domain.Product;
 import com.systempro.sales.domain.Sales;
 import com.systempro.sales.domain.data.SalesVO;
+import com.systempro.sales.enums.Status;
 import com.systempro.sales.repositories.ItemRepository;
 import com.systempro.sales.repositories.ProductRepository;
 import com.systempro.sales.repositories.SalesRepository;
@@ -21,7 +22,6 @@ public class SalesService {
 	private final SalesRepository repository;
 	private final ItemRepository itemRepository;
 	private final ProductRepository productRepository;
-	private String format;
 
 	public SalesService(SalesRepository repository, ItemRepository itemRepository,
 			ProductRepository productRepository) {
@@ -40,8 +40,8 @@ public class SalesService {
 
 	public SalesVO create(SalesVO salesVO) {
 		SalesVO sales = SalesVO.create(repository.save(Sales.create(salesVO)));
-		Sales sa = new Sales(sales.getId(), sales.getInstante());
-
+		Sales sa = new Sales(sales.getId(), sales.getInstante(), sales.getRastreio(), Status.RECEBEMOS_SEU_PEDIDO);
+		
 		var sa_id = sa.getId();
 		for (ItemSales ip : salesVO.getItens()) {
 			ip.setProduct(ip.getProduct());
@@ -75,7 +75,7 @@ public class SalesService {
 	}
 
 	public List<Sales> findBySalesDate(LocalDateTime instante, LocalDateTime termino) {
-		List<Sales> sales = repository.findByInstanteBetween(instante, termino);		
+		List<Sales> sales = repository.findByInstanteBetween(instante, termino);
 		return sales;
 	}
 

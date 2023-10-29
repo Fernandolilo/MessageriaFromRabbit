@@ -15,17 +15,11 @@ product = {
 
 
 
-for i in range(1000):
+for i in range(10):
   post_response = requests.post(url = 'http://localhost:8000/estoque/categories', json=category)
 
 time.sleep(2)
 
-for i in range(1000):
+for i in range(10):
   post_response = requests.post(url = 'http://localhost:8000/estoque/products', json=product)
 
-
-
-
-
-   
-   

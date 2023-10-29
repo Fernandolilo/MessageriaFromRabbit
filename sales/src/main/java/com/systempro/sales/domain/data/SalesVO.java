@@ -5,6 +5,7 @@ import java.time.LocalDateTime;
 import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.hateoas.RepresentationModel;
@@ -16,6 +17,7 @@ import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateTimeDeserializer;
 import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateTimeSerializer;
 import com.systempro.sales.domain.ItemSales;
 import com.systempro.sales.domain.Sales;
+import com.systempro.sales.enums.Status;
 
 public class SalesVO extends RepresentationModel<SalesVO> implements Serializable {
 	private static final long serialVersionUID = 1L;
@@ -26,10 +28,16 @@ public class SalesVO extends RepresentationModel<SalesVO> implements Serializabl
 	@JsonFormat(pattern = "dd/MM/yyyy HH:mm:ss")
 	private LocalDateTime instante;
 
+	private String rastreio;
+
 	private Set<ItemSales> itens = new HashSet<>();
+
+	private Integer status;
+	private Set<Status> statusVenda = new HashSet<>();
 
 	public static SalesVO create(Sales sales) {
 		sales.setInstante(LocalDateTime.now());
+		sales.getStatusVenda().add(Status.toEnum(sales.getStatus()));
 		return new ModelMapper().map(sales, SalesVO.class);
 	}
 
@@ -37,9 +45,11 @@ public class SalesVO extends RepresentationModel<SalesVO> implements Serializabl
 
 	}
 
-	public SalesVO(Long id, LocalDateTime instante) {
+	public SalesVO(Long id, LocalDateTime instante, String rastreio, Status cod) {
 		this.id = id;
 		this.instante = instante;
+		this.rastreio = rastreio;
+		this.status = (cod == null) ? null : cod.getCod();
 	}
 
 	public Long getId() {
@@ -73,6 +83,34 @@ public class SalesVO extends RepresentationModel<SalesVO> implements Serializabl
 			valor = p.getAmount() * p.getPrice();
 		}
 		return valor;
+	}
+
+	public String getRastreio() {
+		if (!getStatus().equals(Status.RECEBEMOS_SEU_PEDIDO)) {
+			return rastreio;
+		}
+		return "aguarde";
+
+	}
+
+	public void setRastreio(String rastreio) {
+		this.rastreio = rastreio;
+	}
+
+	public Set<Status> getStatusVenda() {
+		return statusVenda;
+	}
+
+	public void setStatusVenda(Set<Status> statusVenda) {
+		this.statusVenda = statusVenda;
+	}
+
+	public Integer getStatus() {
+		return status;
+	}
+
+	public void setStatus(Integer status) {
+		this.status = status;
 	}
 
 	@Override

@@ -34,7 +34,7 @@ public class MessageConfig {
 
 	@Bean
 	public Exchange declareExchange() {
-		return ExchangeBuilder.directExchange(ESTOQUE_EXCHANGE).durable(true).build();
+		return ExchangeBuilder.topicExchange(ESTOQUE_EXCHANGE).durable(true).build();
 	}
 
 	@Bean

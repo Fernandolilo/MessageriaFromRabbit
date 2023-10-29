@@ -10,6 +10,7 @@ import org.springframework.stereotype.Component;
 import com.systempro.sales.domain.Category;
 import com.systempro.sales.domain.data.CategoryVO;
 import com.systempro.sales.repositories.CategoryRepository;
+import com.systempro.sales.message.MessageConfig;
 
 @Component
 public class ReceiveMessageCategories {

@@ -1,6 +1,7 @@
 package com.systempro.sales.message;
 
 import java.util.Optional;
+import com.systempro.sales.message.MessageConfig;
 
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.beans.factory.annotation.Autowired;

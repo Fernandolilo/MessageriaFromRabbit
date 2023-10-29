@@ -5169,3 +5169,692 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2023-08-10 19:27:09,673 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
 2023-08-10 19:27:09,700 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2023-08-10 19:27:09,706 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-13 15:12:43,003 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-08-13 15:13:29,474 [Worker-14: Launching product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-13 15:13:29,527 [Worker-14: Launching product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-13 15:13:29,537 [Worker-14: Launching product - ProductApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/product/src/test/resources
+2023-08-13 15:13:32,752 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-13 15:13:32,780 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-13 15:13:32,789 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-13 15:33:06,910 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-13 15:33:06,979 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-13 15:33:06,990 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/product/src/test/resources
+2023-08-14 10:35:13,316 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-14 10:36:06,446 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-14 10:36:06,514 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-14 10:36:06,527 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:30:09,973 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:30:10,026 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:30:10,037 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:32:31,169 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:32:31,204 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:32:31,233 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:38:14,409 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:38:14,437 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:38:14,447 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:40:01,493 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:40:02,935 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:40:02,940 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:40:04,220 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:40:04,262 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:40:04,273 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:41:02,345 [Worker-22: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:41:02,383 [Worker-22: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:41:02,392 [Worker-22: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:41:29,997 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:41:30,043 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:41:30,055 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:44:15,399 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:44:15,436 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:44:15,445 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:45:49,556 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:45:49,602 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:45:49,610 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:48:42,631 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:48:42,674 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:48:42,679 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:48:45,035 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:48:45,247 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:48:45,254 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-15 08:48:49,948 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-15 08:48:49,974 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-15 08:48:49,979 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-16 08:31:57,161 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-08-16 08:44:55,145 [Worker-20: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-16 08:44:55,204 [Worker-20: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-16 08:44:55,214 [Worker-20: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-16 08:45:44,252 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-16 08:45:44,290 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-16 08:45:44,301 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-16 08:57:42,347 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-16 08:57:42,464 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-16 08:57:42,474 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-16 10:39:10,744 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.systempro.auth:auth:0.0.1-SNAPSHOT @ /home/fernando/temp-sts/microsservicesInRabbitMQ/auth/pom.xml.
+2023-08-16 10:39:15,448 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-08-16 10:39:15,486 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-16 10:39:15,496 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/auth/src/test/resources
+2023-08-16 10:49:37,044 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-08-16 10:49:37,050 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-16 10:49:37,058 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/auth/src/test/resources
+2023-08-16 21:09:27,183 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-16 21:09:54,648 [Worker-5: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-16 21:09:54,675 [Worker-5: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-16 21:09:54,680 [Worker-5: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-16 21:09:56,688 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-08-16 21:09:56,721 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-08-16 21:09:56,729 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/auth/src/test/resources
+2023-08-16 21:17:46,699 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-16 21:17:46,748 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-16 21:17:46,755 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-16 21:18:42,813 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.7+7
+2023-08-16 21:18:42,847 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-08-16 21:18:42,881 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@507b068f{/help,null,AVAILABLE}
+2023-08-16 21:18:42,900 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@42956d73{HTTP/1.1, (http/1.1)}{127.0.0.1:45249}
+2023-08-16 21:18:42,906 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@24e7da79{STARTING}[10.0.13,sto=0] @571193ms
+2023-08-16 21:20:01,626 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-16 21:20:01,700 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-16 21:20:01,707 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-16 21:22:57,016 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@24e7da79{STOPPING}[10.0.13,sto=0]
+2023-08-16 21:22:57,023 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@42956d73{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-08-16 21:22:57,034 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@507b068f{/help,null,STOPPED}
+2023-08-18 06:00:59,036 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-08-18 06:02:09,491 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:02:09,572 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:02:09,588 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:02:22,755 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:02:22,791 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:02:22,805 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:03:09,104 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:03:09,170 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:03:09,182 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:04:43,125 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:04:43,208 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:04:43,217 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:05:29,777 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:05:29,815 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:05:29,826 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:05:43,136 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:05:43,165 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:05:43,174 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:06:00,149 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:06:00,183 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:06:00,195 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:11:32,339 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:11:32,381 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:11:32,392 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:12:37,391 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:12:37,423 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:12:37,433 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:17:23,480 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:17:23,532 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:17:23,547 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:20:38,990 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:20:39,040 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:20:39,047 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:22:22,361 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:22:22,415 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:22:22,434 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:23:58,971 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:23:59,019 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:23:59,034 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:27:36,688 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:27:36,734 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:27:36,743 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:28:05,782 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:28:05,824 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:28:05,833 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:40:22,130 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.7+7
+2023-08-18 06:40:22,176 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-08-18 06:40:22,222 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6fd11668{/help,null,AVAILABLE}
+2023-08-18 06:40:22,239 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@48ac50b1{HTTP/1.1, (http/1.1)}{127.0.0.1:36309}
+2023-08-18 06:40:22,245 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@58fb4537{STARTING}[10.0.13,sto=0] @2386094ms
+2023-08-18 06:41:58,284 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:41:59,737 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:41:59,744 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:44:57,695 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:44:57,826 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:44:57,831 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:45:06,299 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:45:06,716 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:45:06,718 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:49:21,051 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:49:21,561 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:49:21,564 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:50:51,930 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:50:52,757 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:50:52,763 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:51:06,023 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [340])
+2023-08-18 06:51:06,032 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-08-18 06:51:06,032 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/aether-connector-okhttp-0.17.8.jar
+2023-08-18 06:51:06,032 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/commons-lang3-3.8.1.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/guice-4.2.2-no_aop.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/jansi-2.4.0.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-artifact-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-builder-support-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-compat-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-core-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-embedder-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-model-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-model-builder-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-plugin-api-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-repository-metadata-3.8.7.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-api-1.6.3.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-connector-basic-1.6.3.jar
+2023-08-18 06:51:06,033 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-impl-1.6.3.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-provider-3.8.7.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-spi-1.6.3.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-transport-wagon-1.6.3.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-util-1.6.3.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-settings-3.8.7.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-settings-builder-3.8.7.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-shared-utils-3.3.4.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/okhttp-3.14.1.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/okio-1.17.3.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/org.eclipse.sisu.inject-0.3.5.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-build-api-0.0.7.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-cipher-2.0.jar
+2023-08-18 06:51:06,034 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-classworlds-2.6.0.jar
+2023-08-18 06:51:06,035 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-component-annotations-2.1.0.jar
+2023-08-18 06:51:06,035 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-interpolation-1.26.jar
+2023-08-18 06:51:06,035 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-sec-dispatcher-2.0.jar
+2023-08-18 06:51:06,035 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-utils-3.3.1.jar
+2023-08-18 06:51:06,035 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/wagon-file-3.5.3.jar
+2023-08-18 06:51:06,035 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/wagon-provider-api-3.5.3.jar
+2023-08-18 06:51:06,040 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2023-08-18 06:51:06,041 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/com.google.guava_31.1.0.jre.jar
+2023-08-18 06:51:06,041 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [573])
+2023-08-18 06:51:06,043 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/slf4j.api_1.7.36.jar
+2023-08-18 06:51:06,043 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2023-08-18 06:51:06,045 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2023-08-18 06:51:06,045 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2023-08-18 06:51:06,047 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/javax.annotation_1.3.5.v20221203-1659.jar
+2023-08-18 06:51:06,047 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2023-08-18 06:51:06,049 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-08-18 06:51:06,049 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2023-08-18 06:51:06,051 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/com.google.guava.failureaccess_1.0.1.jar
+2023-08-18 06:51:06,054 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/fernando/temp-sts/microsservicesInRabbitMQ/sales":
+2023-08-18 06:51:06,054 [Worker-43: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-08-18 06:51:19,179 [Worker-41: Launching Executing install in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/fernando/temp-sts/microsservicesInRabbitMQ/sales":
+2023-08-18 06:51:19,179 [Worker-41: Launching Executing install in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-08-18 06:53:38,662 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:53:38,676 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:53:38,679 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:55:24,725 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:55:24,741 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:55:24,744 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 06:55:30,686 [Worker-49: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 06:55:30,703 [Worker-49: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 06:55:30,707 [Worker-49: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:11:18,344 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:11:18,378 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:11:18,385 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:13:02,080 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:13:02,121 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:13:02,128 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:13:18,719 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:13:18,776 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:13:18,795 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:18:05,969 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:18:06,020 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:18:06,035 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:18:58,573 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:18:58,620 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:18:58,631 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:27:14,142 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:27:14,172 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:27:14,178 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:27:56,609 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:27:56,631 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:27:56,635 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:28:57,224 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:28:57,258 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:28:57,268 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:30:15,630 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:30:15,667 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:30:15,677 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:30:43,550 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:30:43,578 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:30:43,585 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:31:10,594 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:31:10,617 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:31:10,621 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:36:46,626 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:36:46,656 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:36:46,660 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:37:07,160 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:37:07,195 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:37:07,202 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:37:11,409 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:37:11,445 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:37:11,451 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:39:16,306 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:39:16,337 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:39:16,342 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:39:59,393 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:39:59,418 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:39:59,426 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:40:17,377 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:40:17,404 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:40:17,411 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:40:20,668 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:40:20,701 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:40:20,708 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:46:18,636 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:46:18,675 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:46:18,679 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:46:43,677 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:46:43,703 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:46:43,707 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:46:47,891 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:46:47,916 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:46:47,921 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:47:17,767 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:47:17,800 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:47:17,808 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:50:05,784 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:50:05,819 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:50:05,827 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:51:42,469 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:51:42,497 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:51:42,501 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:52:02,127 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:52:02,156 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:52:02,163 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:52:49,642 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:52:49,668 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:52:49,673 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:53:10,693 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:53:10,722 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:53:10,729 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:54:02,904 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:54:02,956 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:54:02,962 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:54:44,709 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:54:44,750 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:54:44,756 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:55:12,993 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:55:13,021 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:55:13,025 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 20:56:56,480 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 20:56:56,569 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 20:56:56,578 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 21:02:59,713 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-18 21:04:36,140 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-18 21:04:36,149 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-18 21:07:39,077 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@58fb4537{STOPPING}[10.0.13,sto=0]
+2023-08-18 21:07:39,152 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@48ac50b1{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-08-18 21:07:39,242 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6fd11668{/help,null,STOPPED}
+2023-08-19 20:15:50,111 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-08-19 20:17:42,093 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:17:42,165 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:17:42,178 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:17:57,866 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:17:57,903 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:17:57,916 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:18:50,014 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:18:50,087 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:18:50,099 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:20:03,712 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:20:03,751 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:20:03,757 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:20:20,715 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:20:20,746 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:20:20,762 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:20:46,944 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:20:46,999 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:20:47,015 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:24:17,486 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.7+7
+2023-08-19 20:24:17,522 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-08-19 20:24:17,581 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2d0ce318{/help,null,AVAILABLE}
+2023-08-19 20:24:17,606 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7c4ccdf9{HTTP/1.1, (http/1.1)}{127.0.0.1:36059}
+2023-08-19 20:24:17,611 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@133e1d75{STARTING}[10.0.13,sto=0] @526847ms
+2023-08-19 20:24:45,893 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:24:45,936 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:24:45,944 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:25:22,800 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:25:22,858 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:25:22,903 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:26:28,059 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:26:28,088 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:26:28,093 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:28:56,447 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:28:56,471 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:28:56,476 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:29:05,669 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:29:05,726 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:29:05,732 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:32:22,436 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:32:22,487 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:32:22,493 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:32:27,677 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:32:27,711 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:32:27,716 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:33:41,192 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:33:41,221 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:33:41,225 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:34:41,830 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:34:41,856 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:34:41,864 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:35:20,163 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:35:20,188 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:35:20,199 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:36:28,704 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:36:28,738 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:36:28,745 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:37:01,772 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:37:01,799 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:37:01,804 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:37:14,790 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:37:14,815 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:37:14,822 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:43:19,394 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:43:19,594 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:43:19,601 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:45:22,807 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:45:22,858 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:45:22,863 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:50:19,765 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:50:19,818 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:50:19,827 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:56:23,915 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:56:23,947 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:56:23,954 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:58:48,663 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:58:48,701 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:58:48,708 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 20:59:10,904 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 20:59:10,934 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 20:59:10,938 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:00:14,609 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:00:14,681 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:00:14,689 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:02:09,493 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:02:09,530 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:02:09,539 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:04:37,651 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:04:37,688 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:04:37,693 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:04:49,398 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:04:49,425 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:04:49,431 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:06:49,179 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:06:49,528 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:06:49,541 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:07:00,623 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:07:00,647 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:07:00,650 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:09:55,398 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:09:55,428 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:09:55,433 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:12:12,876 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:12:12,913 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:12:12,919 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:16:41,172 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:16:41,252 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:16:41,256 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:16:49,954 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:16:49,977 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:16:49,981 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:17:12,072 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:17:12,105 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:17:12,113 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:18:18,856 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:18:18,882 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:18:18,889 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:18:30,479 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:18:30,510 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:18:30,547 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:19:00,459 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:19:00,487 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:19:00,495 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:19:45,343 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:19:45,555 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:19:45,562 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:20:02,982 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:20:03,015 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:20:03,019 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:23:15,556 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:23:15,646 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:23:15,649 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:23:26,680 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:23:26,697 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:23:26,700 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:29:51,758 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-19 21:29:51,778 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-19 21:29:51,782 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-19 21:29:55,509 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@133e1d75{STOPPING}[10.0.13,sto=0]
+2023-08-19 21:29:55,622 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7c4ccdf9{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-08-19 21:29:56,031 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2d0ce318{/help,null,STOPPED}
+2023-08-20 08:39:46,110 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-20 13:39:01,623 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 13:39:01,707 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 13:39:01,721 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 13:39:13,259 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [340])
+2023-08-20 13:39:13,267 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-08-20 13:39:13,267 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/aether-connector-okhttp-0.17.8.jar
+2023-08-20 13:39:13,267 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/commons-lang3-3.8.1.jar
+2023-08-20 13:39:13,267 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/guice-4.2.2-no_aop.jar
+2023-08-20 13:39:13,268 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/jansi-2.4.0.jar
+2023-08-20 13:39:13,268 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-artifact-3.8.7.jar
+2023-08-20 13:39:13,268 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-builder-support-3.8.7.jar
+2023-08-20 13:39:13,268 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-compat-3.8.7.jar
+2023-08-20 13:39:13,268 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-core-3.8.7.jar
+2023-08-20 13:39:13,268 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-embedder-3.8.7.jar
+2023-08-20 13:39:13,268 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-model-3.8.7.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-model-builder-3.8.7.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-plugin-api-3.8.7.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-repository-metadata-3.8.7.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-api-1.6.3.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-connector-basic-1.6.3.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-impl-1.6.3.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-provider-3.8.7.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-spi-1.6.3.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-transport-wagon-1.6.3.jar
+2023-08-20 13:39:13,269 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-resolver-util-1.6.3.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-settings-3.8.7.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-settings-builder-3.8.7.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/maven-shared-utils-3.3.4.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/okhttp-3.14.1.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/okio-1.17.3.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/org.eclipse.sisu.inject-0.3.5.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-build-api-0.0.7.jar
+2023-08-20 13:39:13,270 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-cipher-2.0.jar
+2023-08-20 13:39:13,271 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-classworlds-2.6.0.jar
+2023-08-20 13:39:13,271 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-component-annotations-2.1.0.jar
+2023-08-20 13:39:13,271 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-interpolation-1.26.jar
+2023-08-20 13:39:13,271 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-sec-dispatcher-2.0.jar
+2023-08-20 13:39:13,271 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/plexus-utils-3.3.1.jar
+2023-08-20 13:39:13,271 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/wagon-file-3.5.3.jar
+2023-08-20 13:39:13,271 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606/jars/wagon-provider-api-3.5.3.jar
+2023-08-20 13:39:13,273 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2023-08-20 13:39:13,275 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/com.google.guava_31.1.0.jre.jar
+2023-08-20 13:39:13,275 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [573])
+2023-08-20 13:39:13,275 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/slf4j.api_1.7.36.jar
+2023-08-20 13:39:13,276 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2023-08-20 13:39:13,277 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2023-08-20 13:39:13,277 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2023-08-20 13:39:13,279 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/javax.annotation_1.3.5.v20221203-1659.jar
+2023-08-20 13:39:13,279 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2023-08-20 13:39:13,281 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-08-20 13:39:13,281 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2023-08-20 13:39:13,282 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/fernando/temp/sts-4.18.1.RELEASE/plugins/com.google.guava.failureaccess_1.0.1.jar
+2023-08-20 13:39:13,287 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/fernando/temp-sts/microsservicesInRabbitMQ/sales":
+2023-08-20 13:39:13,294 [Worker-2: Launching Executing clean in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2023-08-20 13:40:29,365 [Worker-19: Launching Executing install in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/fernando/temp-sts/microsservicesInRabbitMQ/sales":
+2023-08-20 13:40:29,367 [Worker-19: Launching Executing install in _home_fernando_temp-sts_microsservicesInRabbitMQ_sales] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2023-08-20 13:58:07,346 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 13:58:07,384 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 13:58:07,393 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 13:58:58,861 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 13:58:58,895 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 13:58:58,902 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 13:59:28,145 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 13:59:28,171 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 13:59:28,178 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:01:17,041 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:01:17,083 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:01:17,089 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:01:42,912 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:01:42,937 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:01:42,943 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:02:01,355 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:02:01,438 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:02:01,450 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:02:47,438 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:02:47,475 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:02:47,489 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:05:28,200 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:05:28,233 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:05:28,240 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:05:56,734 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:05:56,764 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:05:56,771 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:06:30,202 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:06:30,233 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:06:30,238 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:06:48,349 [Worker-38: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:06:48,415 [Worker-38: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:06:48,436 [Worker-38: Launching sales - SalesApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:08:35,471 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:08:35,514 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:08:35,521 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:09:07,168 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:09:07,216 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:09:07,228 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:09:40,894 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:09:40,950 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:09:40,974 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:10:02,474 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:10:02,538 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:10:02,551 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:15:05,384 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:15:05,432 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:15:05,441 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:15:19,096 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:15:19,130 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:15:19,136 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:22:36,855 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:22:36,881 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:22:36,887 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:22:42,900 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:22:42,932 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:22:42,938 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:23:15,193 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:23:15,218 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:23:15,223 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:23:20,384 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:23:20,412 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:23:20,416 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:24:16,165 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:24:16,196 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:24:16,202 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:24:23,012 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:24:23,039 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:24:23,046 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:37:49,520 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:37:49,552 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:37:49,557 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:39:49,552 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:39:49,648 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:39:49,657 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:41:17,286 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:41:17,323 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:41:17,331 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:44:54,091 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:44:54,113 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:44:54,116 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 14:46:32,537 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 14:46:32,552 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 14:46:32,555 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:37:56,615 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:37:57,375 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:37:57,419 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:40:12,547 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.systempro.sales:sales:0.0.1-SNAPSHOT @ /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/pom.xml.
+2023-08-20 15:40:15,374 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.1/spring-boot-starter-security-3.1.1.pom
+2023-08-20 15:40:15,516 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.1/spring-boot-starter-security-3.1.1.pom
+2023-08-20 15:40:15,865 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.1/spring-security-config-6.1.1.pom
+2023-08-20 15:40:15,937 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.1/spring-security-config-6.1.1.pom
+2023-08-20 15:40:16,477 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.1/spring-security-core-6.1.1.pom
+2023-08-20 15:40:16,600 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.1/spring-security-core-6.1.1.pom
+2023-08-20 15:40:16,699 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.1/spring-security-crypto-6.1.1.pom
+2023-08-20 15:40:16,904 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.1/spring-security-crypto-6.1.1.pom
+2023-08-20 15:40:17,008 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.1/spring-security-web-6.1.1.pom
+2023-08-20 15:40:17,080 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.1/spring-security-web-6.1.1.pom
+2023-08-20 15:40:17,278 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.1/spring-security-test-6.1.1.pom
+2023-08-20 15:40:17,515 [Worker-76: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.1/spring-security-test-6.1.1.pom
+2023-08-20 15:40:17,776 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.1/spring-boot-starter-security-3.1.1.jar
+2023-08-20 15:40:17,825 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.1/spring-security-core-6.1.1.jar
+2023-08-20 15:40:17,828 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.1/spring-security-web-6.1.1.jar
+2023-08-20 15:40:17,867 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.1/spring-security-test-6.1.1.jar
+2023-08-20 15:40:17,867 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.1/spring-security-config-6.1.1.jar
+2023-08-20 15:40:18,325 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.1/spring-boot-starter-security-3.1.1.jar
+2023-08-20 15:40:20,180 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.1/spring-security-crypto-6.1.1.jar
+2023-08-20 15:40:20,766 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.1/spring-security-test-6.1.1.jar
+2023-08-20 15:40:21,062 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.1/spring-security-crypto-6.1.1.jar
+2023-08-20 15:40:24,568 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.1/spring-security-core-6.1.1.jar
+2023-08-20 15:40:24,903 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.1/spring-security-web-6.1.1.jar
+2023-08-20 15:40:25,227 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.1/spring-security-config-6.1.1.jar
+2023-08-20 15:40:26,014 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:40:26,014 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:40:26,017 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:40:26,617 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-20 15:40:26,753 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.systempro.sales:sales:0.0.1-SNAPSHOT @ /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/pom.xml.
+2023-08-20 15:40:27,067 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales/src/main/java
+2023-08-20 15:40:27,068 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales/src/main/resources
+2023-08-20 15:40:27,068 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales/src/main/resources
+2023-08-20 15:40:27,068 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales/src/test/java
+2023-08-20 15:40:27,177 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.1/spring-boot-starter-security-3.1.1-sources.jar
+2023-08-20 15:40:27,311 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/3.1.1/spring-boot-starter-security-3.1.1-sources.jar
+2023-08-20 15:40:27,313 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:3.1.1
+2023-08-20 15:40:27,488 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-08-20 15:40:27,600 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.1/spring-security-config-6.1.1-sources.jar
+2023-08-20 15:40:27,983 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:40:28,023 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:40:28,029 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:40:28,054 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/6.1.1/spring-security-config-6.1.1-sources.jar
+2023-08-20 15:40:28,055 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:6.1.1
+2023-08-20 15:40:28,346 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.1/spring-security-web-6.1.1-sources.jar
+2023-08-20 15:40:28,709 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/6.1.1/spring-security-web-6.1.1-sources.jar
+2023-08-20 15:40:28,711 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:6.1.1
+2023-08-20 15:40:29,013 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.1/spring-security-test-6.1.1-sources.jar
+2023-08-20 15:40:29,139 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/6.1.1/spring-security-test-6.1.1-sources.jar
+2023-08-20 15:40:29,140 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-test:6.1.1
+2023-08-20 15:40:29,392 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.1/spring-security-core-6.1.1-sources.jar
+2023-08-20 15:40:29,699 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/6.1.1/spring-security-core-6.1.1-sources.jar
+2023-08-20 15:40:29,701 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:6.1.1
+2023-08-20 15:40:29,976 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.1/spring-security-crypto-6.1.1-sources.jar
+2023-08-20 15:40:30,172 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/6.1.1/spring-security-crypto-6.1.1-sources.jar
+2023-08-20 15:40:30,173 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:6.1.1
+2023-08-20 15:40:44,951 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:40:44,999 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:40:45,003 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:42:51,830 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:42:53,347 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:42:53,351 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:44:11,638 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:44:11,795 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:44:11,797 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:45:58,438 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:45:58,453 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:45:58,455 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:46:32,445 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.systempro.sales:sales:0.0.1-SNAPSHOT @ /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/pom.xml.
+2023-08-20 15:46:34,325 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:46:34,325 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:46:34,328 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:46:39,963 [Worker-71: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.systempro.sales:sales:0.0.1-SNAPSHOT @ /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/pom.xml.
+2023-08-20 15:46:40,325 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:46:40,417 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:46:40,422 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:47:12,140 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.systempro.sales:sales:0.0.1-SNAPSHOT @ /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/pom.xml.
+2023-08-20 15:47:12,613 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:47:12,614 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:47:12,621 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-20 15:48:46,946 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2023-08-20 15:48:46,993 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-08-20 15:48:46,997 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/fernando/temp-sts/microsservicesInRabbitMQ/sales/src/test/resources
+2023-08-23 20:40:40,117 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-19 14:16:14,290 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-20 14:40:22,999 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-20 14:40:23,485 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.

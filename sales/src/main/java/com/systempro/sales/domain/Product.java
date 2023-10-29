@@ -34,6 +34,7 @@ public class Product implements Serializable {
 	private Double price;
 
 	private Integer amount;
+	
 
 	@ManyToOne
 	@JoinColumn(name = "category_id")
